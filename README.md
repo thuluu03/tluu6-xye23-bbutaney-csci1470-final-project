@@ -1,7 +1,7 @@
 # tluu6-xye23-bbutaney-csci1470-final-project
 CNN model for bone classification on the MURA dataset.
 
-###How to run
+### How to run
 This program is meant to run with the MURA dataset already downloaded and 
 stored in a google drive account. You can edit the file path names to the 
 correct location on your drive. 
@@ -9,7 +9,7 @@ correct location on your drive.
 Then hit run 'run all' or select the cells you want to run. More specific 
 information about the functions is provided in the notebook. 
 
-###Code structure 
+### Code structure 
 The cells at the beginning provide the program access to your google drive and 
 rearranges the dataset into an ideal way to be processed. move_data() will alter
 the original arrangement of the MURA dataset by pulling all the images out and 
