@@ -6,6 +6,8 @@ This program is meant to run with the MURA dataset already downloaded and
 stored in a google drive account. You can edit the file path names to the 
 correct location on your drive. 
 
+You can download the dataset at https://cs.stanford.edu/group/mlgroup/MURA-v1.1.zip
+
 Then hit run 'run all' or select the cells you want to run. More specific 
 information about the functions is provided in the notebook. 
 
